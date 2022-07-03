@@ -115,3 +115,4 @@ t-SNE plots of CLIP and our detector region embeddings on novel COCO categories.
     title     = {spaghetti: spatial network analysis in PySAL},
     journal   = {Journal of Open Source Software}
 }
+```
