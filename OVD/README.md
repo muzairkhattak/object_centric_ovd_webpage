@@ -65,7 +65,7 @@ Effect of individual components in our method. Our weight transfer method provid
 ### Comparison with Existing OVOD Works 
 
 
-## Open-vocabulary COCO
+#### Open-vocabulary COCO
 
 | Name                                                                                       | APnovel | APbase | AP   | Download |
 |--------------------------------------------------------------------------------------------|---------|--------|------|----------|
@@ -77,7 +77,7 @@ Effect of individual components in our method. Our weight transfer method provid
 | [COCO_OVD_RKD_PIS_WeightTransfer_8x](configs/coco/COCO_OVD_RKD_PIS_WeightTransfer_8x.yaml) | 40.5    | 56.7   | 52.5 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EUtwrJyDAO9GsI13MpyqyJ4BssrY1JZbaUhPnmFt4FJktA?e=9RxhZF) |
 
 
-## Open-vocabulary LVIS
+#### Open-vocabulary LVIS
 
 | Name                                                                                       | APnovel | APbase | AP   | Download |
 |--------------------------------------------------------------------------------------------|---------|--------|------|----------|
@@ -105,3 +105,19 @@ t-SNE plots of CLIP and our detector region embeddings on novel COCO categories.
 ## Qualitative Results (Cross Datasets transfer)
 
 ![results](images/Detection.png)
+
+
+## BibTeX:
+```
+@article{Gaboardi2021,
+    doi       = {10.21105/joss.02826},
+    url       = {https://doi.org/10.21105/joss.02826},
+    year      = {2021},
+    publisher = {The Open Journal},
+    volume    = {6},
+    number    = {62},
+    pages     = {2826},
+    author    = {James D. Gaboardi and Sergio Rey and Stefanie Lumnitz},
+    title     = {spaghetti: spatial network analysis in PySAL},
+    journal   = {Journal of Open Source Software}
+}
