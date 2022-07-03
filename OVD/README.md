@@ -100,11 +100,11 @@ t-SNE plots of CLIP and our detector region embeddings on novel COCO categories.
 
 ## Qualitative Results (Open Vocabulary Setting)
 
-![results](images/Segmentation.png)
+![results](docs/coco_lvis.jpg)
 
 ## Qualitative Results (Cross Datasets transfer)
 
-![results](images/Detection.png)
+![results](docs/cross_data.jpg)
 
 
 ## BibTeX:
