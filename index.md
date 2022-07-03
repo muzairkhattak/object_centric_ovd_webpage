@@ -11,6 +11,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Paper](https://arxiv.org/abs/2206.10589): [<img height="25" src="docs/paper_icon.png" width="25" />](https://arxiv.org/abs/2206.10589)  , [Code:](https://github.com/mmaaz60/EdgeNeXt) [<img height="25" src="docs/github_icon.png" width="25" />](https://github.com/mmaaz60/EdgeNeXt)
 
 <br>
+
 ### Abstract
 
 ![main figure](docs/OVD_block_diag.png)
