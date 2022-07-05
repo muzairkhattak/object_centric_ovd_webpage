@@ -3,15 +3,15 @@
 
 
   
-<p align='center'>[<sup>1</sup>Hanoona Rasheed](https://scholar.google.com/citations?user=yhDdEuEAAAAJ&hl=en&authuser=1&oi=sra), [<sup>1</sup>Muhammad Maaz](https://scholar.google.com/citations?user=vTy9Te8AAAAJ&hl=en&authuser=1&oi=sra), [<sup>1</sup>Muhammad Uzair Khattak](https://scholar.google.com/citations?user=M6fFL4gAAAAJ&hl=en), [<sup>1,2</sup>Salman Khan](https://salman-h-khan.github.io/), and [<sup>1,3</sup>Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en)  </p>
+&emsp;&emsp;&emsp;&emsp [<sup>1</sup>Hanoona Rasheed](https://scholar.google.com/citations?user=yhDdEuEAAAAJ&hl=en&authuser=1&oi=sra), [<sup>1</sup>Muhammad Maaz](https://scholar.google.com/citations?user=vTy9Te8AAAAJ&hl=en&authuser=1&oi=sra), [<sup>1</sup>Muhammad Uzair Khattak](https://scholar.google.com/citations?user=M6fFL4gAAAAJ&hl=en), [<sup>1,2</sup>Salman Khan](https://salman-h-khan.github.io/), and [<sup>1,3</sup>Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en) 
 
 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [<sup>1</sup>Mohamed Bin Zayed University of Artificial Intelligene](https://mbzuai.ac.ae/), [<sup>2</sup>Austrailian National University](https://www.anu.edu.au/), [<sup>3</sup>linköping university](https://liu.se/en) 
+&emsp;&emsp;&emsp;&emsp;[<sup>1</sup>Mohamed Bin Zayed University of Artificial Intelligene](https://mbzuai.ac.ae/), [<sup>2</sup>Austrailian National University](https://www.anu.edu.au/), [<sup>3</sup>linköping university](https://liu.se/en) 
 
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Paper:](https://arxiv.org/abs/2206.10589) [<img height="25" src="docs/paper_icon.png" width="25" />](https://arxiv.org/abs/2206.10589)  , [Code:](https://github.com/mmaaz60/EdgeNeXt) [<img height="25" src="docs/github_icon.png" width="25" />](https://github.com/mmaaz60/EdgeNeXt) , [Slides:](https://drive.google.com/file/d/1t0tthvh_-dd1BvcmokEb-3FUIaEE31DD/view) [<img height="25" src="docs/Slides.png" width="25" />](https://drive.google.com/file/d/1t0tthvh_-dd1BvcmokEb-3FUIaEE31DD/view)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Paper:](https://arxiv.org/abs/2206.10589) [<img height="25" src="docs/paper_icon.png" width="25" />](https://arxiv.org/abs/2206.10589)  , [Code:](https://github.com/mmaaz60/EdgeNeXt) [<img height="25" src="docs/github_icon.png" width="25" />](https://github.com/mmaaz60/EdgeNeXt) , [Slides:](https://drive.google.com/file/d/1t0tthvh_-dd1BvcmokEb-3FUIaEE31DD/view) [<img height="25" src="docs/Slides.png" width="25" />](https://drive.google.com/file/d/1t0tthvh_-dd1BvcmokEb-3FUIaEE31DD/view)
 
 <br>
 
@@ -23,7 +23,7 @@
 ### Abstract
 
 ![main figure](docs/OVD_block_diag.png)
-
+<p align="justify">
 Existing open-vocabulary object detectors typically enlarge their vocabulary sizes by leveraging 
 different forms of weak supervision. This helps generalize to novel objects at inference. Two popular forms of 
  weak-supervision used in open-vocabulary detection (OVD) include pretrained CLIP model and image-level supervision.
@@ -37,8 +37,7 @@ different forms of weak supervision. This helps generalize to novel objects at i
  In essence, the proposed model seeks to minimize the gap between object and image-centric representations in the
  OVD setting. On the COCO benchmark, our proposed approach achieves 40.3 AP50 on novel classes, an absolute 11.9
  gain over the previous best performance. For LVIS, we surpass the state-of-the-art ViLD model by 5.0 mask AP for rare
- categories and 3.4 overall.
-
+ categories and 3.4 overall. </p>
 ## Model Zoo
 
 ### New LVIS Baseline
