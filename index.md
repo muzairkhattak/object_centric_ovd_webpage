@@ -82,8 +82,6 @@ Effect of individual components in our method. Our weight transfer method provid
 
 | Method                                                                                                                                       | APr | APc | APf  |                                                                                                                                         
 |----------------------------------------------------------------------------------------------------------------------------------------------|------|----|------|
-| [WSDDN](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.pdf)                             | 19.7 | 19.6 | 19.6 | 
-| [Cap2Det](https://arxiv.org/pdf/1907.10164.pdf)                                                                                              | 20.3 | 20.1 | 20.1 | 
 | [OVR-CNN](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf) | 22.8 | 46.0 | 39.9 | 
 | [ViLD†](https://arxiv.org/pdf/2104.13921.pdf)                                                                                                | 27.6 | 59.5 | 51.3 | 
 | [Detic](https://arxiv.org/pdf/2201.02605.pdf)                                                                                                | 27.8 | 47.1 | 45.0 | 
