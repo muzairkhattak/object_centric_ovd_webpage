@@ -3,7 +3,7 @@
 
 
   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[<sup>1</sup>Hanoona Rasheed](https://scholar.google.com/citations?user=yhDdEuEAAAAJ&hl=en&authuser=1&oi=sra), [<sup>1</sup>Muhammad Maaz](https://scholar.google.com/citations?user=vTy9Te8AAAAJ&hl=en&authuser=1&oi=sra), [<sup>1</sup>Muhammad Uzair Khattak](https://scholar.google.com/citations?user=M6fFL4gAAAAJ&hl=en), [<sup>1,2</sup>Salman Khan](https://salman-h-khan.github.io/), and [<sup>1,3</sup>Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en)
+<p align='center'>[<sup>1</sup>Hanoona Rasheed](https://scholar.google.com/citations?user=yhDdEuEAAAAJ&hl=en&authuser=1&oi=sra), [<sup>1</sup>Muhammad Maaz](https://scholar.google.com/citations?user=vTy9Te8AAAAJ&hl=en&authuser=1&oi=sra), [<sup>1</sup>Muhammad Uzair Khattak](https://scholar.google.com/citations?user=M6fFL4gAAAAJ&hl=en), [<sup>1,2</sup>Salman Khan](https://salman-h-khan.github.io/), and [<sup>1,3</sup>Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en)  </p>
 
 
 
@@ -82,11 +82,11 @@ Effect of individual components in our method. Our weight transfer method provid
 
 #### Open-vocabulary COCO
 
-| Method                                                                                       | APnovel | APbase | AP   
+| Method| APnovel | APbase | AP  |
 |--------------------------------------------------------------------------------------------|---------|--------|------|
-| [WSDDN](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.pdf)  | 19.7     | 19.6   | 19.6                 |
+| [WSDDN](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.pdf)  | 19.7     | 19.6   | 19.6 |
 | [Cap2Det](https://arxiv.org/pdf/1907.10164.pdf)                                 | 20.3    | 20.1   | 20.1 |
-| [OVR-CNN](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf)                                   | 22.8    | 46.0   | 39.9 | 
+| [OVR-CNN](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf) | 22.8    | 46.0   | 39.9 | 
 | [ViLD†](https://arxiv.org/pdf/2104.13921.pdf)                                  | 27.6  | 59.5   | 51.3 |
 | [Detic](https://arxiv.org/pdf/2201.02605.pdf)       | 27.8    | 47.1   | 45.0 |
 | [Detic‡](https://arxiv.org/pdf/2201.02605.pdf)  | 28.4    | 53.8   | 47.2 |
