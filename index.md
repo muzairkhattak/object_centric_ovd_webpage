@@ -81,7 +81,7 @@ Effect of individual components in our method. Our weight transfer method provid
 
 #### Open-vocabulary COCO
 
-| Method| APnovel | APbase | AP  |
+| Method | APnovel | APbase | AP  |
 |--------------------------------------------------------------------------------------------|---------|--------|------|
 | [WSDDN](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.pdf)  | 19.7     | 19.6   | 19.6 |
 | [Cap2Det](https://arxiv.org/pdf/1907.10164.pdf)                                 | 20.3    | 20.1   | 20.1 |
