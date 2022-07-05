@@ -102,7 +102,7 @@ t-SNE plots of CLIP and our detector region embeddings on COCO novel categories.
 <br/> 
 Plots of the Region Embeddings similarity matrices of COCO Novel categories by CLIP and our detector
 
-![tSNE_plots](docs/tSNE_plots.png)
+![tSNE_plots](docs/similarity_matrix.png)
 
 <hr />
 
