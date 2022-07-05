@@ -55,7 +55,7 @@ We believe this could be a good baseline to be considered for the future researc
 ### Open-vocabulary COCO
 Effect of individual components in our method. Our weight transfer method provides complimentary gains from RKD and ILS, achieving superior results as compared to naively adding both components.
 
-| Name                                                                                       | APnovel | APbase | AP   | Download |
+| Method                                                                                       | APnovel | APbase | AP   | Download |
 |--------------------------------------------------------------------------------------------|---------|--------|------|----------|
 | [Base-OVD-RCNN-C4](configs/coco/Base-OVD-RCNN-C4.yaml)                                     | 1.7     | 53.2   | 39.6 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EVLABS0bOahDqpRFOuzYR0YBzvVU-GiC4JMTsdSxMoUG4w?e=FqvWCT)                  |
 | [COCO_OVD_Base_RKD](configs/coco/COCO_OVD_Base_RKD.yaml)                                   | 21.6    | 54.4   | 45.8 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EamR9AJ8tBdJqYMf2Cn9tm8B0MoL4hpK2cavnsr0NKDcUA?e=WxNGRB)        |
@@ -66,7 +66,7 @@ Effect of individual components in our method. Our weight transfer method provid
 
 ### Open-vocabulary LVIS
 
-| Name                                                                                       | APr | APc | APf | AP | Download                                                                                                                                          |
+| Method                                                                                       | APr | APc | APf | AP | Download                                                                                                                                          |
 |--------------------------------------------------------------------------------------------|------|----|---|------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | [mask_rcnn_R50FPN_CLIP_sigmoid](configs/lvis/mask_rcnn_R50FPN_CLIP_sigmoid.yaml)           | 12.2 | 19.4 | 26.4 | 20.9 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EYtGSw6Cmt5JrrjIWV9rfdwBm_ncdhHuIjxJgE9BHv8d2g?e=kVcxb3) |
 | [LVIS_OVD_Base_RKD](configs/lvis/LVIS_OVD_Base_RKD.yaml)                                   | 15.2 | 20.2 | 27.3 | 22.1 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EXKueSpvtGNLmjvb3iLeK8UBZ_Zawjna4Uy5EmmnafwOtw?e=45Hsu6) |
@@ -80,26 +80,36 @@ Effect of individual components in our method. Our weight transfer method provid
 
 #### Open-vocabulary COCO
 
-| Name                                                                                       | APnovel | APbase | AP   |
+| Method                                                                                       | APnovel | APbase | AP   |
 |--------------------------------------------------------------------------------------------|---------|--------|------|
-| [WSDDN](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.pdf)                                    | 1.7     | 53.2   | 39.6                 |
-| [Cap2Det](https://arxiv.org/pdf/1907.10164.pdf)                                 | 21.6    | 54.4   | 45.8 |
-| [OVR-CNN](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf)                                   | 34.2    | 52.0   | 47.4 | 
-| [ViLD†](https://arxiv.org/pdf/2104.13921.pdf)                                  | 22.8  | 52.9   | 48.3 |
-| [Detic](https://arxiv.org/pdf/2201.02605.pdf)       | 27.6    | 46.0   | 39.9 |
+| [WSDDN](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.pdf)                                    | 19.7     | 19.6   | 19.6                 |
+| [Cap2Det](https://arxiv.org/pdf/1907.10164.pdf)                                 | 20.3    | 20.1   | 20.1 |
+| [OVR-CNN](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf)                                   | 22.8    | 46.0   | 39.9 | 
+| [ViLD†](https://arxiv.org/pdf/2104.13921.pdf)                                  | 27.6  | 59.5   | 51.3 |
+| [Detic](https://arxiv.org/pdf/2201.02605.pdf)       | 27.8    | 47.1   | 45.0 |
 | [Detic‡](https://arxiv.org/pdf/2201.02605.pdf)  | 28.4    | 53.8   | 47.2 |
 | Ours | 40.3    | 54.1   | 50.5 |
 | Ours†  | 40.5    | 56.7   | 52.5 |
 #### Open-vocabulary LVIS
 
-| Name                                                                                       | APnovel | APbase | AP   | Download |
-|--------------------------------------------------------------------------------------------|---------|--------|------|----------|
-| [Base-OVD-RCNN-C4](configs/coco/Base-OVD-RCNN-C4.yaml)                                     | 1.7     | 53.2   | 39.6 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EVLABS0bOahDqpRFOuzYR0YBzvVU-GiC4JMTsdSxMoUG4w?e=FqvWCT)                  |
-| [COCO_OVD_Base_RKD](configs/coco/COCO_OVD_Base_RKD.yaml)                                   | 21.6    | 54.4   | 45.8 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EamR9AJ8tBdJqYMf2Cn9tm8B0MoL4hpK2cavnsr0NKDcUA?e=WxNGRB)        |
-| [COCO_OVD_Base_PIS](configs/coco/COCO_OVD_Base_PIS.yaml)                                   | 34.2    | 52.0   | 47.4 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EQSUB_pxTalIiArcEPprzaABvC5CFg2Ti8u-gA6gZlljIA?e=LEUr6i)    |
-| [COCO_OVD_RKD_PIS](configs/coco/COCO_OVD_RKD_PIS.yaml)                                     | 35.3    | 52.9   | 48.3 | [model]() |
-| [COCO_OVD_RKD_PIS_WeightTransfer](configs/coco/COCO_OVD_RKD_PIS_WeightTransfer.yaml)       | 40.3    | 54.1   | 50.5 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/Edj5sCOJjAFPqEH3gBrCj6UBRNl6qkanZoHiUDYkTsOHlg?e=SjR5q2)            |
-| [COCO_OVD_RKD_PIS_WeightTransfer_8x](configs/coco/COCO_OVD_RKD_PIS_WeightTransfer_8x.yaml) | 40.5    | 56.7   | 52.5 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EUtwrJyDAO9GsI13MpyqyJ4BssrY1JZbaUhPnmFt4FJktA?e=9RxhZF) |
+| Method                                                                                       | APr | APc | APf | AP | Epochs                                                                                                                                          |
+|--------------------------------------------------------------------------------------------|------|----|---|------|------|
+| [ViLD](https://arxiv.org/pdf/2203.14940.pdf)          | 16.1 | 20.0 | 28.3 | 22.5 | 384 |
+| Ours           | 17.2 | 21.5 | 26.6 | 22.8 | 36 |
+| Ours         | 21.1 | 25.0 | 29.1 | 25.9 | 96 |
+
+<br/> 
+
+| Method                                                                                       | APr | APc | APf | AP |                                                                                                                                          
+|--------------------------------------------------------------------------------------------|------|----|---|------|
+| [Box-Supervised](https://arxiv.org/pdf/2201.02605.pdf)          | 16.3 | 31.0 | 35.4 | 30.0 |
+| [Detic (Image + Captions)](https://arxiv.org/pdf/2201.02605.pdf)           | 24.6 | 32.5 | 35.6 | 32.4 |
+| Ours         | 25.2 | 33.4 | 35.8 | 32.9 |
+
+<br/> 
+
+
+
 
 ## TSNE Visualizations
 
