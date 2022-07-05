@@ -76,32 +76,21 @@ Effect of individual components in our method. Our weight transfer method provid
 | [LVIS_OVD_RKD_PIS_WeightTransfer](configs/lvis/LVIS_OVD_RKD_PIS_WeightTransfer.yaml)       | 17.2 | 21.5 | 26.6 | 22.8 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/ETZ6xlqmIxlEiee7Nj1G2I8BE6iaY7ArFEAEVHohQJCamg?e=mfP1Mh) |
 | [LVIS_OVD_RKD_PIS_WeightTransfer_8x](configs/lvis/LVIS_OVD_RKD_PIS_WeightTransfer_8x.yaml) | 21.1 | 25.0 | 29.1 | 25.9 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EV8g8qped_FCugaB83jeW6EBHBAgWf9ajXv_TeLEGiPMtg?e=wsac5n) |
 
-### Comparison with Existing OVOD Works 
-
+### Comparison with Existing OVOD Works
 
 #### Open-vocabulary COCO
 
-
 | Method                                                                                                                                       | APr | APc | APf  |                                                                                                                                         
 |----------------------------------------------------------------------------------------------------------------------------------------------|------|----|------|
-| [WSDDN](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.pdf)                             | 12.2 | 19.4 | 26.4 | 
-| [Cap2Det](https://arxiv.org/pdf/1907.10164.pdf)                                                                                              | 15.2 | 20.2 | 27.3 | 
-| [OVR-CNN](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf) | 17.0 | 21.2 | 26.1 | 
-| [ViLD†](https://arxiv.org/pdf/2104.13921.pdf)                                                                                                | 17.3 | 20.9 | 25.5 | 
-| [Detic](https://arxiv.org/pdf/2201.02605.pdf)                                                                                                | 17.2 | 21.5 | 26.6 | 
-| [Detic‡](https://arxiv.org/pdf/2201.02605.pdf)                                                                                               | 21.1 | 25.0 | 29.1 | 
-
-
-| Method                                                                                                                                       | APnovel | APbase | AP   |
-|----------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|------|
-| [WSDDN](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.pdf)                             | 19.7    | 19.6   | 19.6 |
-| [Cap2Det](https://arxiv.org/pdf/1907.10164.pdf)                                                                                              | 20.3    | 20.1   | 20.1 |
-| [OVR-CNN](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf) | 22.8    | 46.0   | 39.9 | 
-| [ViLD†](https://arxiv.org/pdf/2104.13921.pdf)                                                                                                 | 27.6    | 59.5   | 51.3 |
-| [Detic](https://arxiv.org/pdf/2201.02605.pdf)                                                                                                | 27.8    | 47.1   | 45.0 |
-| [Detic‡](https://arxiv.org/pdf/2201.02605.pdf)                                                                                                | 28.4    | 53.8   | 47.2 |
+| [WSDDN](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.pdf)                             | 19.7 | 19.6 | 19.6 | 
+| [Cap2Det](https://arxiv.org/pdf/1907.10164.pdf)                                                                                              | 20.3 | 20.1 | 20.1 | 
+| [OVR-CNN](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf) | 22.8 | 46.0 | 39.9 | 
+| [ViLD†](https://arxiv.org/pdf/2104.13921.pdf)                                                                                                | 27.6 | 59.5 | 51.3 | 
+| [Detic](https://arxiv.org/pdf/2201.02605.pdf)                                                                                                | 27.8 | 47.1 | 45.0 | 
+| [Detic‡](https://arxiv.org/pdf/2201.02605.pdf)                                                                                               | 28.4 | 53.8 | 47.2 | 
 | Ours                                                                                                                                         | 40.3    | 54.1   | 50.5 |
 | Ours†                                                                                                                                         | 40.5    | 56.7   | 52.5 |
+
 #### Open-vocabulary LVIS
 
 | Method                                                                                       | APr | APc | APf | AP | Epochs                                                                                                                                          |
