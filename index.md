@@ -11,7 +11,7 @@
 
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Paper:](https://arxiv.org/abs/2206.10589) [<img height="25" src="docs/paper_icon.png" width="25" />](https://arxiv.org/abs/2206.10589)  , [Code:](https://github.com/mmaaz60/EdgeNeXt) [<img height="25" src="docs/github_icon.png" width="25" />](https://github.com/mmaaz60/EdgeNeXt) , [Slides:](https://drive.google.com/file/d/1t0tthvh_-dd1BvcmokEb-3FUIaEE31DD/view) [<img height="25" src="docs/Slides.png" width="25" />](https://drive.google.com/file/d/1t0tthvh_-dd1BvcmokEb-3FUIaEE31DD/view)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Paper:](https://arxiv.org/abs/2206.10589) [<img height="50" src="docs/paper_icon.png" width="50" />](https://arxiv.org/abs/2206.10589)  , [Code:](https://github.com/mmaaz60/EdgeNeXt) [<img height="50" src="docs/github_icon.png" width="50" />](https://github.com/mmaaz60/EdgeNeXt) , [Slides:](https://drive.google.com/file/d/1t0tthvh_-dd1BvcmokEb-3FUIaEE31DD/view) [<img height="50" src="docs/Slides.png" width="50" />](https://drive.google.com/file/d/1t0tthvh_-dd1BvcmokEb-3FUIaEE31DD/view)
 
 <br>
 
