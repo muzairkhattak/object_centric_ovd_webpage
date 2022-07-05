@@ -80,16 +80,16 @@ Effect of individual components in our method. Our weight transfer method provid
 
 #### Open-vocabulary COCO
 
-| Name                                                                                       | APnovel | APbase | AP   | Download |
-|--------------------------------------------------------------------------------------------|---------|--------|------|----------|
-| [Base-OVD-RCNN-C4](configs/coco/Base-OVD-RCNN-C4.yaml)                                     | 1.7     | 53.2   | 39.6 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EVLABS0bOahDqpRFOuzYR0YBzvVU-GiC4JMTsdSxMoUG4w?e=FqvWCT)                  |
-| [COCO_OVD_Base_RKD](configs/coco/COCO_OVD_Base_RKD.yaml)                                   | 21.6    | 54.4   | 45.8 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EamR9AJ8tBdJqYMf2Cn9tm8B0MoL4hpK2cavnsr0NKDcUA?e=WxNGRB)        |
-| [COCO_OVD_Base_PIS](configs/coco/COCO_OVD_Base_PIS.yaml)                                   | 34.2    | 52.0   | 47.4 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EQSUB_pxTalIiArcEPprzaABvC5CFg2Ti8u-gA6gZlljIA?e=LEUr6i)    |
-| [COCO_OVD_RKD_PIS](configs/coco/COCO_OVD_RKD_PIS.yaml)                                     | 35.3    | 52.9   | 48.3 | [model]() |
-| [COCO_OVD_RKD_PIS_WeightTransfer](configs/coco/COCO_OVD_RKD_PIS_WeightTransfer.yaml)       | 40.3    | 54.1   | 50.5 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/Edj5sCOJjAFPqEH3gBrCj6UBRNl6qkanZoHiUDYkTsOHlg?e=SjR5q2)            |
-| [COCO_OVD_RKD_PIS_WeightTransfer_8x](configs/coco/COCO_OVD_RKD_PIS_WeightTransfer_8x.yaml) | 40.5    | 56.7   | 52.5 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EUtwrJyDAO9GsI13MpyqyJ4BssrY1JZbaUhPnmFt4FJktA?e=9RxhZF) |
-
-
+| Name                                                                                       | APnovel | APbase | AP   |
+|--------------------------------------------------------------------------------------------|---------|--------|------|
+| [WSDDN](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.pdf)                                    | 1.7     | 53.2   | 39.6                 |
+| [Cap2Det](https://arxiv.org/pdf/1907.10164.pdf)                                 | 21.6    | 54.4   | 45.8 |
+| [OVR-CNN](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf)                                   | 34.2    | 52.0   | 47.4 | 
+| [ViLD†](https://arxiv.org/pdf/2104.13921.pdf)                                  | 22.8  | 52.9   | 48.3 |
+| [Detic](https://arxiv.org/pdf/2201.02605.pdf)       | 27.6    | 46.0   | 39.9 |
+| [Detic‡](https://arxiv.org/pdf/2201.02605.pdf)  | 28.4    | 53.8   | 47.2 |
+| Ours | 40.3    | 54.1   | 50.5 |
+| Ours†  | 40.5    | 56.7   | 52.5 |
 #### Open-vocabulary LVIS
 
 | Name                                                                                       | APnovel | APbase | AP   | Download |
