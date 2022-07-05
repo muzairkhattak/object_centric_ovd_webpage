@@ -91,7 +91,16 @@ Effect of individual components in our method. Our weight transfer method provid
 ## TSNE Visualizations
 
 <br/> 
-t-SNE plots of CLIP and our detector region embeddings on novel COCO categories.
+t-SNE plots of CLIP and our detector region embeddings on COCO novel categories.
+
+![tSNE_plots](docs/tSNE_plots.png)
+
+<hr />
+
+## Region Embeddings similarity matrices visualizations
+
+<br/> 
+Plots of the Region Embeddings similarity matrices of COCO Novel categories by CLIP and our detector
 
 ![tSNE_plots](docs/tSNE_plots.png)
 
