@@ -39,6 +39,19 @@ different forms of weak supervision. This helps generalize to novel objects at i
 
 ## Model Zoo
 
+### New LVIS Baseline
+Our Mask R-CNN based LVIS Baseline ([mask_rcnn_R50FPN_CLIP_sigmoid](configs/lvis/mask_rcnn_R50FPN_CLIP_sigmoid.yaml)) 
+achieves 12.2 rare class and 20.9 overall AP and trains in only 4.5 hours on 8 A100 GPUs. 
+We believe this could be a good baseline to be considered for the future research work in LVIS OVD setting.
+
+| Name                                                                                       | APr | APc | APf | AP | Epochs                                                                                                                                          |
+|--------------------------------------------------------------------------------------------|------|----|---|------|------|
+| [PromptDet Baseline](https://arxiv.org/pdf/2203.14940.pdf)          | 7.4 | 17.2 | 26.1 | 19.0 | 12 |
+| [ViLD-text](https://arxiv.org/abs/2104.13921)           | 10.1 | 23.9 | 32.5 | 24.9 | 384 |
+| [Ours Baseline](configs/lvis/mask_rcnn_R50FPN_CLIP_sigmoid.yaml)         | 12.2 | 19.4 | 26.4 | 20.9 | 12 |
+
+<br/> 
+
 ### Open-vocabulary COCO
 Effect of individual components in our method. Our weight transfer method provides complimentary gains from RKD and ILS, achieving superior results as compared to naively adding both components.
 
