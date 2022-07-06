@@ -107,7 +107,7 @@ Effect of individual components in our method. Our weight transfer method provid
 |--------------------------------------------------------------------------------------------|------|----|---|------|
 | [Box-Supervised](https://arxiv.org/pdf/2201.02605.pdf)          | 16.3 | 31.0 | 35.4 | 30.0 |
 | [Detic (Image + Captions)](https://arxiv.org/pdf/2201.02605.pdf)           | 24.6 | 32.5 | 35.6 | 32.4 |
-| Ours         | 25.2 | 33.4 | 35.8 | 32.9 |
+| Ours         | <b style="color:black;"> 25.2 </b> |  <b style="color:black;"> 33.4 </b>  | <b style="color:black;"> 35.8 </b> | <b style="color:black;"> 32.9 </b>  |
 
 <br/> 
 
