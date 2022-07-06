@@ -57,8 +57,6 @@ We believe this could be a good baseline to be considered for the future researc
 | [ViLD-text](https://arxiv.org/abs/2104.13921)           | 10.1 | 23.9 | 32.5 | 24.9 | 384 |
 | [Ours Baseline](configs/lvis/mask_rcnn_R50FPN_CLIP_sigmoid.yaml)         | 12.2 | 19.4 | 26.4 | 20.9 | 12 |
 
-<br/> 
-
 ### Open-vocabulary COCO
 Effect of individual components in our method. Our weight transfer method provides complimentary gains from RKD and ILS, achieving superior results as compared to naively adding both components.
 
@@ -113,12 +111,8 @@ Effect of individual components in our method. Our weight transfer method provid
 
 <br/> 
 
-
-
-
 ## TSNE Visualizations
 
-<br/> 
 t-SNE plots of CLIP and our detector region embeddings on COCO novel categories.
 
 ![tSNE_plots](docs/tSNE_plots.png)
@@ -126,7 +120,6 @@ t-SNE plots of CLIP and our detector region embeddings on COCO novel categories.
 
 ## Region Embeddings similarity matrices
 
-<br/> 
 Plots of the Region Embeddings similarity matrices of COCO Novel categories by CLIP and our detector. 
 
 ![SPKD](docs/similarity_matrix.png)
