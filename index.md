@@ -89,7 +89,7 @@ Effect of proposed components in our method on LVIS.
 #### Open-vocabulary COCO
 We compare our OVD results with previously established methods.  †ViLD and our methods are trained for longer 8x schedule. ‡We train detic for another 1x for a fair comparison with our method.  For ViLD, we use their unified model that trains ViLD-text and ViLD-Image together. For Detic, we report their best model.
 
-<p align="center">
+<div align="center">
 
 | Method                                                                                                                                       | APr | APc | APf  |                                                                                                                                         
 |----------------------------------------------------------------------------------------------------------------------------------------------|------|----|------|
@@ -100,7 +100,7 @@ We compare our OVD results with previously established methods.  †ViLD and our
 | Ours                                                                                                                                         | <b style="color:black;"> 40.3 </b>    | <b style="color:black;"> 54.1 </b>   | <b style="color:black;"> 50.5 </b>  |
 | Ours†                                                                                                                                         | 40.5    | 56.7   | 52.5 |
 
- </p>
+ </div>
  
 #### Open-vocabulary LVIS
 
@@ -118,7 +118,6 @@ Comparison with prior work ViLD, using their unified model (ViLD-text + ViLD-Ima
    
 We show compare our method with Detic, by building on their strong LVIS baseline using CenterNetV2 detector.
 
-<p align="center">
   
 | Method                                                                                       | APr | APc | APf | AP |                                                                                                                                          
 |--------------------------------------------------------------------------------------------|------|----|---|------|
@@ -126,7 +125,6 @@ We show compare our method with Detic, by building on their strong LVIS baseline
 | [Detic (Image + Captions)](https://arxiv.org/pdf/2201.02605.pdf)           | 24.6 | 32.5 | 35.6 | 32.4 |
 | Ours         | <b style="color:black;"> 25.2 </b> |  <b style="color:black;"> 33.4 </b>  | <b style="color:black;"> 35.8 </b> | <b style="color:black;"> 32.9 </b>  |
 
- </p>
  
 <br/> 
 
