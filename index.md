@@ -70,6 +70,8 @@ Effect of individual components in our method. Our weight transfer method provid
 | [COCO_OVD_RKD_PIS_WeightTransfer_8x](https://github.com/hanoonaR/object-centric-ovd/blob/main/configs/coco/COCO_OVD_RKD_PIS_WeightTransfer_8x.yaml) | <b style="color:black;"> 40.5 </b>   |  <b style="color:black;"> 56.7 </b>   | <b style="color:black;"> 52.5 </b>  | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EUtwrJyDAO9GsI13MpyqyJ4BssrY1JZbaUhPnmFt4FJktA?e=9RxhZF) |
 
 ### Open-vocabulary LVIS
+Effect of proposed components in our method on LVIS.
+
 
 | Method                                                                                       | APr | APc | APf | AP | Download                                                                                                                                          |
 |--------------------------------------------------------------------------------------------|------|----|---|------|---------------------------------------------------------------------------------------------------------------------------------------------------|
