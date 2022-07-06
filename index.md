@@ -51,14 +51,12 @@ Our Mask R-CNN based LVIS Baseline ([mask_rcnn_R50FPN_CLIP_sigmoid](configs/lvis
 achieves 12.2 rare class and 20.9 overall AP and trains in only 4.5 hours on 8 A100 GPUs. 
 We believe this could be a good baseline to be considered for the future research work in LVIS OVD setting.
 
-```{table} my caption
 | Name                                                                                       | APr | APc | APf | AP | Epochs                                                                                                                                          |
 |--------------------------------------------------------------------------------------------|------|----|---|------|------|
 | [PromptDet Baseline](https://arxiv.org/pdf/2203.14940.pdf)          | 7.4 | 17.2 | 26.1 | 19.0 | 12 |
 | [ViLD-text](https://arxiv.org/abs/2104.13921)           | 10.1 | 23.9 | 32.5 | 24.9 | 384 |
 | [Ours Baseline](configs/lvis/mask_rcnn_R50FPN_CLIP_sigmoid.yaml)         | 12.2 | 19.4 | 26.4 | 20.9 | 12 |
 
-```
 
 
 ### Open-vocabulary COCO
@@ -89,6 +87,8 @@ Effect of proposed components in our method on LVIS.
 ## Comparison with Existing OVOD Works
 
 #### Open-vocabulary COCO
+We compare our OVD results with previously established methods.  †ViLD and our methods are trained for longer 8x schedule (shown in gray). ‡We train detic for another 1x for a fair comparison with our method.  For ViLD, we use their unified model that trains ViLD-text and ViLD-Image together. For Detic, we report their best model.
+
 
 | Method                                                                                                                                       | APr | APc | APf  |                                                                                                                                         
 |----------------------------------------------------------------------------------------------------------------------------------------------|------|----|------|
@@ -100,6 +100,8 @@ Effect of proposed components in our method on LVIS.
 | Ours†                                                                                                                                         | 40.5    | 56.7   | 52.5 |
 
 #### Open-vocabulary LVIS
+
+Below we compare our method results with ViLD and Detic on LVIS OVD benchmark.
 
 | Method                                                                                       | APr | APc | APf | AP | Epochs                                                                                                                                          |
 |--------------------------------------------------------------------------------------------|------|----|---|------|------|
