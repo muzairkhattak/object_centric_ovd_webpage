@@ -20,22 +20,30 @@
 
 <br>
 
- <p align="center">           
- <div class="col-sm-12 text-center">
-<ul class="nav justify-content-center nav-fill">
-    <li class="nav-item">
+#div_top_hypers {
+    background-color:#eeeeee;
+    display:inline;      
+}
+#ul_top_hypers li{
+    display: inline;
+}
+
+
+ <div id="div_top_hypers">        
+<ul id="ul_top_hypers">
+    <li class="a_top_hypers">>
         <a href="https://arxiv.org/pdf/2104.12763">
             <img src="docs/paper_icon.png" height="60px">
                 <h4><strong>Paper</strong></h4>
         </a>
     </li>
-    <li class="nav-item">
+    <li class="a_top_hypers">>
         <a href="https://github.com/ashkamath/mdetr">
             <img src="docs/github_icon.png" height="60px">
                 <h4><strong>Code</strong></h4>
         </a>
     </li>
-    <li class="nav-item">
+    <li class="a_top_hypers">>
         <a href="https://colab.research.google.com/github/ashkamath/mdetr/blob/colab/notebooks/MDETR_demo.ipynb">
             <img src="docs/Slides.png" height="60px">
                 <h4><strong>Colab</strong></h4>
@@ -44,7 +52,15 @@
 </ul>
       </div>            
 
-</p>
+<div id="div_top_hypers">
+    <ul id="ul_top_hypers">
+        <li>&#8227; <a href="" class="a_top_hypers"> Inbox</a></li>
+        <li>&#8227; <a href="" class="a_top_hypers"> Compose</a></li>
+        <li>&#8227; <a href="" class="a_top_hypers"> Reports</a></li>
+        <li>&#8227; <a href="" class="a_top_hypers"> Preferences</a></li>
+        <li>&#8227; <a href="" class="a_top_hypers"> logout</a></li>
+    </ul>
+</div>
 
 
 <p align="center">
