@@ -102,6 +102,8 @@ We compare our OVD results with previously established methods.  †ViLD and our
 #### Open-vocabulary LVIS
 
 Comparison with prior work ViLD, using their unified model (ViLD-text + ViLD-Image).
+
+
 | Method                                                                                       | APr | APc | APf | AP | Epochs                                                                                                                                          |
 |--------------------------------------------------------------------------------------------|------|----|---|------|------|
 | [ViLD](https://arxiv.org/pdf/2203.14940.pdf)          | 16.1 | 20.0 | 28.3 | 22.5 | 384 |
