@@ -7,7 +7,7 @@
   </p> 
   
 
-<p align="center"> 
+<p align="center" style="color:black;">
   <sup>1</sup>Mohamed Bin Zayed University of Artificial Intelligence <sup>2</sup>Austrailian National University  </p>
   <p align="center"> 
   <sup>3</sup>linköping university </p>
