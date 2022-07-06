@@ -43,6 +43,7 @@ different forms of weak supervision. This helps generalize to novel objects at i
  OVD setting. On the COCO benchmark, our proposed approach achieves 40.3 AP50 on novel classes, an absolute 11.9
  gain over the previous best performance. For LVIS, we surpass the state-of-the-art ViLD model by 5.0 mask AP for rare
  categories and 3.4 overall. </p>
+ 
 ## Model Zoo
 
 ### New LVIS Baseline
@@ -122,7 +123,6 @@ t-SNE plots of CLIP and our detector region embeddings on COCO novel categories.
 
 ![tSNE_plots](docs/tSNE_plots.png)
 
-<hr />
 
 ## Region Embeddings similarity matrices visualizations
 
@@ -130,8 +130,6 @@ t-SNE plots of CLIP and our detector region embeddings on COCO novel categories.
 Plots of the Region Embeddings similarity matrices of COCO Novel categories by CLIP and our detector. 
 
 ![SPKD](docs/similarity_matrix.png)
-
-<hr />
 
 
 ## Qualitative Results (Open Vocabulary Setting)
