@@ -8,9 +8,9 @@
   
 
 <p align="center"> 
-  <sup>1</sup><a href="https://mbzuai.ac.ae/">Mohamed Bin Zayed University of Artificial Intelligence</a> <sup>2</sup><a href="https://www.anu.edu.au/">Austrailian National University</a>   </p>
+  <sup>1</sup>Mohamed Bin Zayed University of Artificial Intelligence <sup>2</sup>Austrailian National University  </p>
   <p align="center"> 
-  <sup>3</sup><a href="https://liu.se/en">linköping university</a> </p>
+  <sup>3</sup>linköping university </p>
 
 
 
