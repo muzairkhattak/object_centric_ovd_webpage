@@ -89,7 +89,7 @@ Effect of proposed components in our method on LVIS.
 #### Open-vocabulary COCO
 We compare our OVD results with previously established methods.  †ViLD and our methods are trained for longer 8x schedule. ‡We train detic for another 1x for a fair comparison with our method.  For ViLD, we use their unified model that trains ViLD-text and ViLD-Image together. For Detic, we report their best model.
 
-| Method                                                                                                                                       | APr | APc | APf  |                                                                                                                                         
+| Method                                                                                                                                       | APnovel | APbase | AP  |                                                                                                                                         
 |----------------------------------------------------------------------------------------------------------------------------------------------|------|----|------|
 | [OVR-CNN](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf) | 22.8 | 46.0 | 39.9 | 
 | [ViLD†](https://arxiv.org/pdf/2104.13921.pdf)                                                                                                | 27.6 | 59.5 | 51.3 | 
@@ -97,7 +97,56 @@ We compare our OVD results with previously established methods.  †ViLD and our
 | [Detic‡](https://arxiv.org/pdf/2201.02605.pdf)                                                                                               | 28.4 | 53.8 | 47.2 | 
 | Ours                                                                                                                                         | <b style="color:black;"> 40.3 </b>    | <b style="color:black;"> 54.1 </b>   | <b style="color:black;"> 50.5 </b>  |
 | Ours†                                                                                                                                         | 40.5    | 56.7   | 52.5 |
+<br>
 
+<center>
+<table border="0">
+<tbody>
+<tr>
+<td><center> <b>Method</b>  </center></td>
+<td><center> <b>APnovel</b>  </center></td>
+<td><center> <b>APbase</b>  </center></td>
+<td><center> <b>AP</b>  </center></td>
+</tr>
+<tr>
+  <td><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf">OVR-CNN</a></td>
+  <td>22.8</td>
+  <td>46.0</td>
+  <td>39.9</td>
+</tr>
+<tr>
+<td><a href="https://arxiv.org/pdf/2104.13921.pdf">ViLD†</a></td>
+<td>27.6</td>
+<td>59.5</td>
+<td>51.3</td>
+</tr>
+<tr>
+<td><a href="https://arxiv.org/pdf/2201.02605.pdf">Detic</a></td>
+<td>27.8</td>
+<td>47.1</td>
+<td>45.0</td>
+</tr>
+<tr>
+<td><a href="https://arxiv.org/pdf/2201.02605.pdf">Detic‡</a></td>
+<td>28.4</td>
+<td>53.8</td>
+<td>47.2</td>
+</tr>
+<tr>
+<td>Ours</td>
+<td><b style="color:black;"> 40.3 </b></td>
+<td><b style="color:black;"> 54.1 </b></td>
+<td><b style="color:black;"> 50.5 </b></td>
+</tr>
+<tr>
+<td>Ours†</td>
+<td>40.5</td>
+<td>56.7</td>
+<td>52.5</td>
+</tr>
+</tbody>
+</table>
+</center>
  
 #### Open-vocabulary LVIS
 
@@ -110,6 +159,46 @@ Comparison with prior work ViLD, using their unified model (ViLD-text + ViLD-Ima
 | Ours           | 17.2 | 21.5 | 26.6 | 22.8 | 36 |
 | Ours         | <b style="color:black;"> 21.1 </b> | <b style="color:black;"> 25.0 </b> | <b style="color:black;"> 29.1 </b> | <b style="color:black;"> 25.9 </b> | 96 |
 
+<br>
+
+<center>
+<table border="0">
+<tbody>
+<tr>
+<td><center> <b>Method</b>  </center></td>
+<td><center> <b>APr</b>  </center>   </td>
+<td><center> <b>APc</b>  </center>   </td>
+<td><center> <b>APf</b>  </center>   </td>
+<td><center> <b>AP</b>  </center>   </td>
+<td><center> <b>Epochs</b>  </center>   </td>
+</tr>
+<tr>
+  <td><a href="https://arxiv.org/pdf/2203.14940.pdf">ViLD </a> </td>
+<td>16.1</td>
+<td>20.0</td>
+<td> 28.3</td>
+<td>22.5</td>
+<td>384</td>
+</tr>
+<tr>
+<td>Ours</td>
+<td>17.2</td>
+<td>21.5</td>
+<td>26.6</td>
+<td>22.8</td>
+<td>36</td>
+</tr>
+<tr>
+<td>Ours</td>
+<td><b style="color:black;"> 21.1 </b></td>
+<td><b style="color:black;"> 25.0 </b></td>
+<td> <b style="color:black;"> 29.1 </b></td>
+<td><b style="color:black;"> 25.9 </b></td>
+<td>96</td>
+</tr>
+</tbody>
+</table>
+</center>
 
    
 We show compare our method with Detic, by building on their strong LVIS baseline using CenterNetV2 detector.
