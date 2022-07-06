@@ -110,9 +110,6 @@ Comparison with prior work ViLD, using their unified model (ViLD-text + ViLD-Ima
 | Ours           | 17.2 | 21.5 | 26.6 | 22.8 | 36 |
 | Ours         | <b style="color:black;"> 21.1 </b> | <b style="color:black;"> 25.0 </b> | <b style="color:black;"> 29.1 </b> | <b style="color:black;"> 25.9 </b> | 96 |
 
-<br/> 
-
-
 We show compare our method with Detic, by building on their strong LVIS baseline using CenterNetV2 detector.
 
 | Method                                                                                       | APr | APc | APf | AP |                                                                                                                                          
