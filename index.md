@@ -2,13 +2,17 @@
 ## Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection
 
 
-  <p align="center"> <sup>1</sup><a href="https://scholar.google.com/citations?user=yhDdEuEAAAAJ&hl=en&authuser=1&oi=sra">Hanoona Rasheed</a> <sup>1</sup><a href="https://scholar.google.com/citations?user=vTy9Te8AAAAJ&hl=en&authuser=1&oi=sra">Muhammad Maaz</a> <sup>1</sup><a href="https://scholar.google.com/citations?user=M6fFL4gAAAAJ&hl=en">Muhammad Uzair Khattak</a> <sup>1,2</sup><a href="https://salman-h-khan.github.io/">Salman Khan</a> <sup>1,3</sup><a href="https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en">Fahad Shahbaz Khan</a>
+  <p align="center"> <sup>1</sup><a href="https://scholar.google.com/citations?user=yhDdEuEAAAAJ&hl=en&authuser=1&oi=sra">Hanoona Rasheed</a> <sup>1</sup><a href="https://scholar.google.com/citations?user=vTy9Te8AAAAJ&hl=en&authuser=1&oi=sra">Muhammad Maaz</a> <sup>1</sup><a href="https://scholar.google.com/citations?user=M6fFL4gAAAAJ&hl=en">Muhammad Uzair Khattak</a> </p> 
+  <p align="center">
+  <sup>1,2</sup><a href="https://salman-h-khan.github.io/">Salman Khan</a> <sup>1,3</sup><a href="https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en">Fahad Shahbaz Khan</a>
+  </p> 
   
-  </p>
 
 <p align="center"> 
-  <sup>1</sup><a href="https://mbzuai.ac.ae/">Mohamed Bin Zayed University of Artificial Intelligence</a> <sup>2</sup><a href="https://www.anu.edu.au/">Austrailian National University</a> <sup>3</sup><a href="https://liu.se/en">linköping university</a>
-  </p>
+  <sup>1</sup><a href="https://mbzuai.ac.ae/">Mohamed Bin Zayed University of Artificial Intelligence</a> <sup>2</sup><a href="https://www.anu.edu.au/">Austrailian National University</a>   </p>
+  <p align="center"> 
+  <sup>3</sup><a href="https://liu.se/en">linköping university</a> </p>
+
 
 
 <br>
