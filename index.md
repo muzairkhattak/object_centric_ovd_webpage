@@ -149,7 +149,7 @@ For COCO, base and novel categories are shown in <font color="purple">purple</fo
 ![results](docs/cross_data.jpg)
 
 
-## BibTeX:
+## BibTeX
 ```
 @article{Gaboardi2021,
     doi       = {10.21105/joss.02826},
