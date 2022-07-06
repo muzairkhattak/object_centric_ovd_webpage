@@ -121,7 +121,7 @@ We show compare our method with Detic, by building on their strong LVIS baseline
 | Ours         | <b style="color:black;"> 25.2 </b> |  <b style="color:black;"> 33.4 </b>  | <b style="color:black;"> 35.8 </b> | <b style="color:black;"> 32.9 </b>  |
 
 <br> 
-
+<center>
 <table  border="0">
 <tbody>
 <tr>
@@ -154,7 +154,7 @@ We show compare our method with Detic, by building on their strong LVIS baseline
 </tr>
 </tbody>
 </table>
-
+</center>
 
 <br/> 
 
