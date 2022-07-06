@@ -16,7 +16,7 @@
 
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Paper:](https://arxiv.org/abs/2206.10589) [<img height="50" src="docs/paper_icon.png" width="50" />]()  , [Code:](https://github.com/hanoonaR/object-centric-ovd) [<img height="50" src="docs/github_icon.png" width="50" />](https://github.com/hanoonaR/object-centric-ovd) , [Slides:](https://drive.google.com/file/d/1t0tthvh_-dd1BvcmokEb-3FUIaEE31DD/view) [<img height="50" src="docs/Slides.png" width="50" />](https://drive.google.com/file/d/1t0tthvh_-dd1BvcmokEb-3FUIaEE31DD/view)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Paper:](https://arxiv.org/abs/2206.10589) [<img height="60" src="docs/paper_icon.png" width="60" />]()  , [Code:](https://github.com/hanoonaR/object-centric-ovd) [<img height="60" src="docs/github_icon.png" width="60" />](https://github.com/hanoonaR/object-centric-ovd) , [Slides:](https://drive.google.com/file/d/1t0tthvh_-dd1BvcmokEb-3FUIaEE31DD/view) [<img height="60" src="docs/Slides.png" width="60" />](https://drive.google.com/file/d/1t0tthvh_-dd1BvcmokEb-3FUIaEE31DD/view)
 
 <br>
 
