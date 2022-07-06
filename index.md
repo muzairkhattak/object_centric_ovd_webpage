@@ -88,17 +88,7 @@ Effect of proposed components in our method on LVIS.
 
 #### Open-vocabulary COCO
 We compare our OVD results with previously established methods.  †ViLD and our methods are trained for longer 8x schedule. ‡We train detic for another 1x for a fair comparison with our method.  For ViLD, we use their unified model that trains ViLD-text and ViLD-Image together. For Detic, we report their best model.
-
-| Method                                                                                                                                       | APnovel | APbase | AP  |                                                                                                                                         
-|----------------------------------------------------------------------------------------------------------------------------------------------|------|----|------|
-| [OVR-CNN](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf) | 22.8 | 46.0 | 39.9 | 
-| [ViLD†](https://arxiv.org/pdf/2104.13921.pdf)                                                                                                | 27.6 | 59.5 | 51.3 | 
-| [Detic](https://arxiv.org/pdf/2201.02605.pdf)                                                                                                | 27.8 | 47.1 | 45.0 | 
-| [Detic‡](https://arxiv.org/pdf/2201.02605.pdf)                                                                                               | 28.4 | 53.8 | 47.2 | 
-| Ours                                                                                                                                         | <b style="color:black;"> 40.3 </b>    | <b style="color:black;"> 54.1 </b>   | <b style="color:black;"> 50.5 </b>  |
-| Ours†                                                                                                                                         | 40.5    | 56.7   | 52.5 |
 <br>
-
 <center>
 <table border="0">
 <tbody>
@@ -152,13 +142,6 @@ We compare our OVD results with previously established methods.  †ViLD and our
 
 Comparison with prior work ViLD, using their unified model (ViLD-text + ViLD-Image).
 
-
-| Method                                                                                       | APr | APc | APf | AP | Epochs                                                                                                                                          |
-|--------------------------------------------------------------------------------------------|------|----|---|------|------|
-| [ViLD](https://arxiv.org/pdf/2203.14940.pdf)          | 16.1 | 20.0 | 28.3 | 22.5 | 384 |
-| Ours           | 17.2 | 21.5 | 26.6 | 22.8 | 36 |
-| Ours         | <b style="color:black;"> 21.1 </b> | <b style="color:black;"> 25.0 </b> | <b style="color:black;"> 29.1 </b> | <b style="color:black;"> 25.9 </b> | 96 |
-
 <br>
 
 <center>
@@ -202,12 +185,6 @@ Comparison with prior work ViLD, using their unified model (ViLD-text + ViLD-Ima
 
    
 We show compare our method with Detic, by building on their strong LVIS baseline using CenterNetV2 detector.
-
-| Method                                                                                       | APr | APc | APf | AP |                                                                                                                                          
-|--------------------------------------------------------------------------------------------|------|----|---|------|
-| [Box-Supervised](https://arxiv.org/pdf/2201.02605.pdf)          | 16.3 | 31.0 | 35.4 | 30.0 |
-| [Detic (Image + Captions)](https://arxiv.org/pdf/2201.02605.pdf)           | 24.6 | 32.5 | 35.6 | 32.4 |
-| Ours         | <b style="color:black;"> 25.2 </b> |  <b style="color:black;"> 33.4 </b>  | <b style="color:black;"> 35.8 </b> | <b style="color:black;"> 32.9 </b>  |
 
 <br> 
 <center>
