@@ -53,7 +53,7 @@ We believe this could be a good baseline to be considered for the future researc
 
 | Name                                                                                       | APr | APc | APf | AP | Epochs                                                                                                                                          |
 |--------------------------------------------------------------------------------------------|------|----|---|------|------|
-| [PromptDet Baseline](https://arxiv.org/pdf/2203.14940.pdf)          | 7.4 | 17.2 | 26.1 | 19.0 | 12 |
+| [PromptDet Baseline](https://arxiv.org/abs/2203.16513)          | 7.4 | 17.2 | 26.1 | 19.0 | 12 |
 | [ViLD-text](https://arxiv.org/abs/2104.13921)           | 10.1 | 23.9 | 32.5 | 24.9 | 384 |
 | [Ours Baseline](https://github.com/hanoonaR/object-centric-ovd/blob/main/configs/lvis/mask_rcnn_R50FPN_CLIP_sigmoid.yaml)         | <b style="color:black;"> 12.2 </b> |  19.4 | 26.4 | 20.9 | 12 |
 
