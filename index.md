@@ -101,8 +101,7 @@ We compare our OVD results with previously established methods.  †ViLD and our
 
 #### Open-vocabulary LVIS
 
-Below we compare our method results with ViLD and Detic on LVIS OVD benchmark.
-
+Comparison with prior work ViLD, using their unified model (ViLD-text + ViLD-Image).
 | Method                                                                                       | APr | APc | APf | AP | Epochs                                                                                                                                          |
 |--------------------------------------------------------------------------------------------|------|----|---|------|------|
 | [ViLD](https://arxiv.org/pdf/2203.14940.pdf)          | 16.1 | 20.0 | 28.3 | 22.5 | 384 |
@@ -111,7 +110,7 @@ Below we compare our method results with ViLD and Detic on LVIS OVD benchmark.
 
 <br/> 
 
-
+We show compare our method with Detic, by building on their strong LVIS baseline using CenterNetV2 detector.
 
 | Method                                                                                       | APr | APc | APf | AP |                                                                                                                                          
 |--------------------------------------------------------------------------------------------|------|----|---|------|
@@ -128,7 +127,7 @@ t-SNE plots of CLIP and our detector region embeddings on COCO novel categories.
 ![tSNE_plots](docs/tSNE_plots.png)
 
 
-## Region Embeddings similarity matrices
+## Region Embeddings Similarity Matrices
 
 Plots of the Region Embeddings similarity matrices of COCO Novel categories by CLIP and our detector. 
 
@@ -136,6 +135,8 @@ Plots of the Region Embeddings similarity matrices of COCO Novel categories by C
 
 
 ## Qualitative Results (Open Vocabulary Setting)
+
+For COCO, base and novel categories are shown in <font color="purple">purple</font> and <font color="green">purple</font> colors respectively.
 
 ![results](docs/coco_lvis.jpg)
 
