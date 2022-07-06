@@ -20,8 +20,8 @@
 
 <br>
 
-
-
+ <p align="center">           
+ <div class="col-sm-12 text-center">
 <ul class="nav justify-content-center nav-fill">
     <li class="nav-item">
         <a href="https://arxiv.org/pdf/2104.12763">
@@ -42,9 +42,9 @@
         </a>
     </li>
 </ul>
-                
+      </div>            
 
-
+</p>
 
 
 <p align="center">
