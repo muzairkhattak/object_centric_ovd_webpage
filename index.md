@@ -121,35 +121,35 @@ We show compare our method with Detic, by building on their strong LVIS baseline
 | Ours         | <b style="color:black;"> 25.2 </b> |  <b style="color:black;"> 33.4 </b>  | <b style="color:black;"> 35.8 </b> | <b style="color:black;"> 32.9 </b>  |
 
 
-<table style="width: 26%;" border="2">
+<table  border="0">
 <tbody>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td>Method</td>
+<td>APr</td>
+<td>APc</td>
+<td>APf</td>
+<td>AP</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td>[Box-Supervised](https://arxiv.org/pdf/2201.02605.pdf)</td>
+<td>16.3</td>
+<td>31.0</td>
+<td>35.4</td>
+<td>30.0</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td>[Detic (Image + Captions)](https://arxiv.org/pdf/2201.02605.pdf)</td>
+<td> 24.6 </td>
+<td> 32.5 </td>
+<td> 35.6 </td>
+<td> 32.4 </td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td>Ours</td>
+<td> <b style="color:black;"> 25.2 </b></td>
+<td> <b style="color:black;"> 33.4 </b></td>
+<td><b style="color:black;"> 35.8 </b></td>
+<td><b style="color:black;"> 32.9 </b></td>
 </tr>
 </tbody>
 </table>
