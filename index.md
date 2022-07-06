@@ -120,6 +120,41 @@ We show compare our method with Detic, by building on their strong LVIS baseline
 | [Detic (Image + Captions)](https://arxiv.org/pdf/2201.02605.pdf)           | 24.6 | 32.5 | 35.6 | 32.4 |
 | Ours         | <b style="color:black;"> 25.2 </b> |  <b style="color:black;"> 33.4 </b>  | <b style="color:black;"> 35.8 </b> | <b style="color:black;"> 32.9 </b>  |
 
+
+<table style="width: 26%;" border="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+
 <br/> 
 
 ## TSNE Visualizations
