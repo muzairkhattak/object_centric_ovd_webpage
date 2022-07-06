@@ -67,7 +67,7 @@ Effect of individual components in our method. Our weight transfer method provid
 | [COCO_OVD_Base_PIS](https://github.com/hanoonaR/object-centric-ovd/blob/main/configs/coco/COCO_OVD_Base_PIS.yaml)                                   | 34.2    | 52.0   | 47.4 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EQSUB_pxTalIiArcEPprzaABvC5CFg2Ti8u-gA6gZlljIA?e=LEUr6i)    |
 | [COCO_OVD_RKD_PIS](https://github.com/hanoonaR/object-centric-ovd/blob/main/configs/coco/COCO_OVD_RKD_PIS.yaml)                                     | 35.3    | 52.9   | 48.3 | [model]() |
 | [COCO_OVD_RKD_PIS_WeightTransfer](https://github.com/hanoonaR/object-centric-ovd/blob/main/configs/coco/COCO_OVD_RKD_PIS_WeightTransfer.yaml)       | 40.3    | 54.1   | 50.5 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/Edj5sCOJjAFPqEH3gBrCj6UBRNl6qkanZoHiUDYkTsOHlg?e=SjR5q2)            |
-| [COCO_OVD_RKD_PIS_WeightTransfer_8x](https://github.com/hanoonaR/object-centric-ovd/blob/main/configs/coco/COCO_OVD_RKD_PIS_WeightTransfer_8x.yaml) | 40.5    | 56.7   | 52.5 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EUtwrJyDAO9GsI13MpyqyJ4BssrY1JZbaUhPnmFt4FJktA?e=9RxhZF) |
+| [COCO_OVD_RKD_PIS_WeightTransfer_8x](https://github.com/hanoonaR/object-centric-ovd/blob/main/configs/coco/COCO_OVD_RKD_PIS_WeightTransfer_8x.yaml) | <b style="color:black;"> 40.5 </b>   |  <b style="color:black;"> 56.7 </b>   | <b style="color:black;"> 52.5 </b>  | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EUtwrJyDAO9GsI13MpyqyJ4BssrY1JZbaUhPnmFt4FJktA?e=9RxhZF) |
 
 ### Open-vocabulary LVIS
 
@@ -78,7 +78,7 @@ Effect of individual components in our method. Our weight transfer method provid
 | [LVIS_OVD_Base_PIS]([configs/lvis/LVIS_OVD_Base_PIS.yaml](https://github.com/hanoonaR/object-centric-ovd/blob/main/configs/lvis/LVIS_OVD_Base_PIS.yaml))                                   | 17.0 | 21.2 | 26.1 | 22.4 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/ERr8V8v5Mp9NioxQ2GG_QnIB8SUzNN5NqfGWIXPIifgBmw?e=nls03R) |
 | [LVIS_OVD_RKD_PIS](https://github.com/hanoonaR/object-centric-ovd/blob/main/configs/lvis/LVIS_OVD_RKD_PIS.yaml)                                     | 17.3 | 20.9 | 25.5 | 22.1 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EeLjE7LRTmdHhreI-baMncYBTGUadRF9kxHVYjC700L7Xg?e=TrI3oi) |
 | [LVIS_OVD_RKD_PIS_WeightTransfer](https://github.com/hanoonaR/object-centric-ovd/blob/main/configs/lvis/LVIS_OVD_RKD_PIS_WeightTransfer.yaml)       | 17.2 | 21.5 | 26.6 | 22.8 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/ETZ6xlqmIxlEiee7Nj1G2I8BE6iaY7ArFEAEVHohQJCamg?e=mfP1Mh) |
-| [LVIS_OVD_RKD_PIS_WeightTransfer_8x]([configs/lvis/LVIS_OVD_RKD_PIS_WeightTransfer_8x.yaml](https://github.com/hanoonaR/object-centric-ovd/blob/main/configs/lvis/LVIS_OVD_RKD_PIS_WeightTransfer_8x.yaml)) | 21.1 | 25.0 | 29.1 | 25.9 | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EV8g8qped_FCugaB83jeW6EBHBAgWf9ajXv_TeLEGiPMtg?e=wsac5n) |
+| [LVIS_OVD_RKD_PIS_WeightTransfer_8x]([configs/lvis/LVIS_OVD_RKD_PIS_WeightTransfer_8x.yaml](https://github.com/hanoonaR/object-centric-ovd/blob/main/configs/lvis/LVIS_OVD_RKD_PIS_WeightTransfer_8x.yaml)) | <b style="color:black;"> 21.1 </b> | <b style="color:black;"> 25.0 </b> | <b style="color:black;"> 29.1 </b>  | <b style="color:black;"> 25.9 </b> | [model](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/hanoona_bangalath_mbzuai_ac_ae/EV8g8qped_FCugaB83jeW6EBHBAgWf9ajXv_TeLEGiPMtg?e=wsac5n) |
 
 ## Comparison with Existing OVOD Works
 
@@ -90,7 +90,7 @@ Effect of individual components in our method. Our weight transfer method provid
 | [ViLD†](https://arxiv.org/pdf/2104.13921.pdf)                                                                                                | 27.6 | 59.5 | 51.3 | 
 | [Detic](https://arxiv.org/pdf/2201.02605.pdf)                                                                                                | 27.8 | 47.1 | 45.0 | 
 | [Detic‡](https://arxiv.org/pdf/2201.02605.pdf)                                                                                               | 28.4 | 53.8 | 47.2 | 
-| Ours                                                                                                                                         | 40.3    | 54.1   | 50.5 |
+| Ours                                                                                                                                         | <b style="color:black;"> 40.3 </b>    | <b style="color:black;"> 54.1 </b>   | <b style="color:black;"> 50.5 </b>  |
 | Ours†                                                                                                                                         | 40.5    | 56.7   | 52.5 |
 
 #### Open-vocabulary LVIS
@@ -99,7 +99,7 @@ Effect of individual components in our method. Our weight transfer method provid
 |--------------------------------------------------------------------------------------------|------|----|---|------|------|
 | [ViLD](https://arxiv.org/pdf/2203.14940.pdf)          | 16.1 | 20.0 | 28.3 | 22.5 | 384 |
 | Ours           | 17.2 | 21.5 | 26.6 | 22.8 | 36 |
-| Ours         | 21.1 | 25.0 | 29.1 | 25.9 | 96 |
+| Ours         | <b style="color:black;"> 21.1 </b> | <b style="color:black;"> 25.0 </b> | <b style="color:black;"> 29.1 </b> | <b style="color:black;"> 25.9 </b> | 96 |
 
 <br/> 
 
