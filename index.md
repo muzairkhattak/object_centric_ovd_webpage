@@ -132,14 +132,14 @@ We show compare our method with Detic, by building on their strong LVIS baseline
 <td><center> <b>AP</b>  </center>   </td>
 </tr>
 <tr>
-<td>[Box-Supervised](https://arxiv.org/pdf/2201.02605.pdf)</td>
+  <td><a href="https://arxiv.org/pdf/2201.02605.pdf">Box-Supervised</a></td>
 <td>16.3</td>
 <td>31.0</td>
 <td>35.4</td>
 <td>30.0</td>
 </tr>
 <tr>
-<td>[Detic (Image + Captions)](https://arxiv.org/pdf/2201.02605.pdf)</td>
+<td><a href="[https://arxiv.org/pdf/2201.02605.pdf](https://arxiv.org/pdf/2201.02605.pdf)">Detic (Image + Captions)</a></td>
 <td> 24.6 </td>
 <td> 32.5 </td>
 <td> 35.6 </td>
