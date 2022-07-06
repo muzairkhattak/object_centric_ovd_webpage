@@ -87,7 +87,7 @@ Effect of proposed components in our method on LVIS.
 ### Comparison with Existing OVOD Works
 
 #### Open-vocabulary COCO
-We compare our OVD results with previously established methods.  †ViLD and our methods are trained for longer 8x schedule (shown in gray). ‡We train detic for another 1x for a fair comparison with our method.  For ViLD, we use their unified model that trains ViLD-text and ViLD-Image together. For Detic, we report their best model.
+We compare our OVD results with previously established methods.  †ViLD and our methods are trained for longer 8x schedule. ‡We train detic for another 1x for a fair comparison with our method.  For ViLD, we use their unified model that trains ViLD-text and ViLD-Image together. For Detic, we report their best model.
 
 
 | Method                                                                                                                                       | APr | APc | APf  |                                                                                                                                         
@@ -110,6 +110,8 @@ Below we compare our method results with ViLD and Detic on LVIS OVD benchmark.
 | Ours         | <b style="color:black;"> 21.1 </b> | <b style="color:black;"> 25.0 </b> | <b style="color:black;"> 29.1 </b> | <b style="color:black;"> 25.9 </b> | 96 |
 
 <br/> 
+
+
 
 | Method                                                                                       | APr | APc | APf | AP |                                                                                                                                          
 |--------------------------------------------------------------------------------------------|------|----|---|------|
