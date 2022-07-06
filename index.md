@@ -110,8 +110,6 @@ Comparison with prior work ViLD, using their unified model (ViLD-text + ViLD-Ima
 
 <br/> 
 
-We show compare our method with Detic, by building on their strong LVIS baseline using CenterNetV2 detector.
-
 | Method                                                                                       | APr | APc | APf | AP |                                                                                                                                          
 |--------------------------------------------------------------------------------------------|------|----|---|------|
 | [Box-Supervised](https://arxiv.org/pdf/2201.02605.pdf)          | 16.3 | 31.0 | 35.4 | 30.0 |
@@ -136,7 +134,7 @@ Plots of the Region Embeddings similarity matrices of COCO Novel categories by C
 
 ## Qualitative Results (Open Vocabulary Setting)
 
-For COCO, base and novel categories are shown in <font color="purple">purple</font> and <font color="green">purple</font> colors respectively.
+For COCO, base and novel categories are shown in <font color="purple">purple</font> and <font color="green">green</font> colors respectively.
 
 ![results](docs/coco_lvis.jpg)
 
