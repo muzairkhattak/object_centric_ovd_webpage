@@ -20,49 +20,6 @@
 
 <br>
 
-#div_top_hypers {
-    background-color:#eeeeee;
-    display:inline;      
-}
-#ul_top_hypers li{
-    display: inline;
-}
-
-
- <div id="div_top_hypers">        
-<ul id="ul_top_hypers">
-    <li class="a_top_hypers">>
-        <a href="https://arxiv.org/pdf/2104.12763">
-            <img src="docs/paper_icon.png" height="60px">
-                <h4><strong>Paper</strong></h4>
-        </a>
-    </li>
-    <li class="a_top_hypers">>
-        <a href="https://github.com/ashkamath/mdetr">
-            <img src="docs/github_icon.png" height="60px">
-                <h4><strong>Code</strong></h4>
-        </a>
-    </li>
-    <li class="a_top_hypers">>
-        <a href="https://colab.research.google.com/github/ashkamath/mdetr/blob/colab/notebooks/MDETR_demo.ipynb">
-            <img src="docs/Slides.png" height="60px">
-                <h4><strong>Colab</strong></h4>
-        </a>
-    </li>
-</ul>
-      </div>            
-
-<div id="div_top_hypers">
-    <ul id="ul_top_hypers">
-        <li>&#8227; <a href="" class="a_top_hypers"> Inbox</a></li>
-        <li>&#8227; <a href="" class="a_top_hypers"> Compose</a></li>
-        <li>&#8227; <a href="" class="a_top_hypers"> Reports</a></li>
-        <li>&#8227; <a href="" class="a_top_hypers"> Preferences</a></li>
-        <li>&#8227; <a href="" class="a_top_hypers"> logout</a></li>
-    </ul>
-</div>
-
-
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=JHkuK1mjP28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
@@ -132,8 +89,6 @@ Effect of proposed components in our method on LVIS.
 #### Open-vocabulary COCO
 We compare our OVD results with previously established methods.  †ViLD and our methods are trained for longer 8x schedule. ‡We train detic for another 1x for a fair comparison with our method.  For ViLD, we use their unified model that trains ViLD-text and ViLD-Image together. For Detic, we report their best model.
 
-<div align="center">
-
 | Method                                                                                                                                       | APr | APc | APf  |                                                                                                                                         
 |----------------------------------------------------------------------------------------------------------------------------------------------|------|----|------|
 | [OVR-CNN](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf) | 22.8 | 46.0 | 39.9 | 
@@ -143,13 +98,11 @@ We compare our OVD results with previously established methods.  †ViLD and our
 | Ours                                                                                                                                         | <b style="color:black;"> 40.3 </b>    | <b style="color:black;"> 54.1 </b>   | <b style="color:black;"> 50.5 </b>  |
 | Ours†                                                                                                                                         | 40.5    | 56.7   | 52.5 |
 
- </div>
  
 #### Open-vocabulary LVIS
 
 Comparison with prior work ViLD, using their unified model (ViLD-text + ViLD-Image).
 
-<p align="center">
 
 | Method                                                                                       | APr | APc | APf | AP | Epochs                                                                                                                                          |
 |--------------------------------------------------------------------------------------------|------|----|---|------|------|
@@ -157,7 +110,7 @@ Comparison with prior work ViLD, using their unified model (ViLD-text + ViLD-Ima
 | Ours           | 17.2 | 21.5 | 26.6 | 22.8 | 36 |
 | Ours         | <b style="color:black;"> 21.1 </b> | <b style="color:black;"> 25.0 </b> | <b style="color:black;"> 29.1 </b> | <b style="color:black;"> 25.9 </b> | 96 |
 
-   </p>
+
    
 We show compare our method with Detic, by building on their strong LVIS baseline using CenterNetV2 detector.
 
