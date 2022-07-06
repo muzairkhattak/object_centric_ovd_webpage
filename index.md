@@ -21,9 +21,8 @@
 <br>
 
 <a href="https://arxiv.org/pdf/2104.12763">
-                                <img src="docs/paper_icon.png" height="60px">
-                                    <h4><strong>Paper</strong></h4>
-                            </a>
+                                <img src="docs/paper_icon.png" height="60px"><strong>Paper</strong>
+</a>
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=JHkuK1mjP28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
