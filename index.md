@@ -6,12 +6,6 @@
   <sup>1,2</sup><a href="https://salman-h-khan.github.io/">Salman Khan</a> <sup>1,3</sup><a href="https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en">Fahad Shahbaz Khan</a>
   </p> 
   
-
-<p align="center" style="color:black;">
-  <sup>1</sup>Mohamed Bin Zayed University of AI <sup>2</sup>Austrailian National University  </p>
-  <p align="center" style="color:black;"> 
-  <sup>3</sup>Linköping university </p>
-
 <br>
 
 <p align="center">
