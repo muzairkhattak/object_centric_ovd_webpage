@@ -39,7 +39,7 @@ different forms of weak supervision. This helps generalize to novel objects at i
  gain over the previous best performance. For LVIS, we surpass the state-of-the-art ViLD model by 5.0 mask AP for rare
  categories and 3.4 overall. </p>
  
- <br>
+
  
 ## TSNE Visualizations
 
