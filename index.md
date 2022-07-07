@@ -19,6 +19,7 @@
 </p>
 
 <br>
+
 ## Abstract
 
 ![main figure](docs/OVD_block_diag.png)
@@ -37,9 +38,10 @@ different forms of weak supervision. This helps generalize to novel objects at i
  OVD setting. On the COCO benchmark, our proposed approach achieves 40.3 AP50 on novel classes, an absolute 11.9
  gain over the previous best performance. For LVIS, we surpass the state-of-the-art ViLD model by 5.0 mask AP for rare
  categories and 3.4 overall. </p>
+ 
  <br>
  
- ## TSNE Visualizations
+## TSNE Visualizations
 
 t-SNE plots of CLIP and our detector region embeddings on COCO novel categories.
 
