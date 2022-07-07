@@ -8,6 +8,13 @@
   
 <br>
 
+<p align="center" style="color:black;">
+  <sup>1</sup>Mohamed Bin Zayed University of AI <sup>2</sup>Austrailian National University  </p>
+  <p align="center" style="color:black;"> 
+  <sup>3</sup>Linköping university </p>
+
+
+
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JHkuK1mjP28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
@@ -242,16 +249,10 @@ For COCO, base and novel categories are shown in <font color="purple">purple</fo
 
 ## BibTeX
 ```
-@article{Gaboardi2021,
-    doi       = {10.21105/joss.02826},
-    url       = {https://doi.org/10.21105/joss.02826},
-    year      = {2021},
-    publisher = {The Open Journal},
-    volume    = {6},
-    number    = {62},
-    pages     = {2826},
-    author    = {James D. Gaboardi and Sergio Rey and Stefanie Lumnitz},
-    title     = {spaghetti: spatial network analysis in PySAL},
-    journal   = {Journal of Open Source Software}
-}
+@article{Rasheed2022Bridging,
+        title={Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection},
+        author={Hanoona Rasheed, Muhammad Maaz, Muhammad Uzair Khattak, Salman Khan and Fahad Shahbaz},
+        journal={ArXiv},
+        year={2022}
+    }
 ```
