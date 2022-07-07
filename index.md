@@ -1,18 +1,4 @@
 
-
-
-  <p align="center"> <sup>1</sup><a href="https://scholar.google.com/citations?user=yhDdEuEAAAAJ&hl=en&authuser=1&oi=sra">Hanoona Rasheed</a> <sup>1</sup><a href="https://scholar.google.com/citations?user=vTy9Te8AAAAJ&hl=en&authuser=1&oi=sra">Muhammad Maaz</a> <sup>1</sup><a href="https://scholar.google.com/citations?user=M6fFL4gAAAAJ&hl=en">Muhammad Uzair Khattak</a> </p> 
-  <p align="center">
-  <sup>1,2</sup><a href="https://salman-h-khan.github.io/">Salman Khan</a> <sup>1,3</sup><a href="https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en">Fahad Shahbaz Khan</a>
-  </p> 
-
-<p align="center" style="color:black;">
-  <sup>1</sup>Mohamed Bin Zayed University of AI <sup>2</sup>Austrailian National University  </p>
-  <p align="center" style="color:black;"> 
-  <sup>3</sup>Linköping university </p>
-
-
-
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JHkuK1mjP28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
