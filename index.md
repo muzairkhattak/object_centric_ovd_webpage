@@ -1,3 +1,9 @@
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JHkuK1mjP28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
