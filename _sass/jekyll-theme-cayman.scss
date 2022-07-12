@@ -117,12 +117,10 @@ a {
   }
 
   @include medium {
-    max-width: 64rem;
     padding: 3rem 4rem;
   }
 
   @include small {
-    max-width: 64rem;
     padding: 2rem 1rem;
   }
 }
